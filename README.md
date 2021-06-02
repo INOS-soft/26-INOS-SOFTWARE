@@ -1,4 +1,4 @@
-# Plane-XSS-INOS-SOFTWARE
+# Plan-XSS-INOS-SOFTWARE
 This repository is a collection of Awesome XSS resources. Contributions are welcome and should be submitted via an issue.
 
 ### Awesome contents
